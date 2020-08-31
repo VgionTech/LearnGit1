@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //my comment
 
         int b = 20;
+        int a = 10;
     }
 
     void functionByMe(){
