@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     
     void functionBySomeoneElse(){
         //my comment
+        int a = 10;
     }
 
     void functionByMe(){
