@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         int b = 20;
         int a = 10;
+        int c = 30;
     }
 
     void functionByMe(){
