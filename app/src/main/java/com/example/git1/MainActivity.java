@@ -13,5 +13,10 @@ public class MainActivity extends AppCompatActivity {
     }
     
     void functionBySomeoneElse(){
+        //my comment
+    }
+
+    void functionByMe(){
+
     }
 }
